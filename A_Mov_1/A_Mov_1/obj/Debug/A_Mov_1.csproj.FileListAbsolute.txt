@@ -1,0 +1,13 @@
+C:\Users\hpr1\source\repos\Assembler_MOV_Window\A_Mov_1\A_Mov_1\bin\Debug\A_Mov_1.exe.config
+C:\Users\hpr1\source\repos\Assembler_MOV_Window\A_Mov_1\A_Mov_1\bin\Debug\A_Mov_1.exe
+C:\Users\hpr1\source\repos\Assembler_MOV_Window\A_Mov_1\A_Mov_1\bin\Debug\A_Mov_1.pdb
+C:\Users\hpr1\source\repos\Assembler_MOV_Window\A_Mov_1\A_Mov_1\bin\Debug\pl-PL\A_Mov_1.resources.dll
+C:\Users\hpr1\source\repos\Assembler_MOV_Window\A_Mov_1\A_Mov_1\obj\Debug\A_Mov_1.csprojAssemblyReference.cache
+C:\Users\hpr1\source\repos\Assembler_MOV_Window\A_Mov_1\A_Mov_1\obj\Debug\A_Mov_1.Assembler_MOV_Sim.resources
+C:\Users\hpr1\source\repos\Assembler_MOV_Window\A_Mov_1\A_Mov_1\obj\Debug\A_Mov_1.Properties.Resources.resources
+C:\Users\hpr1\source\repos\Assembler_MOV_Window\A_Mov_1\A_Mov_1\obj\Debug\A_Mov_1.Assembler_MOV_Sim.pl-PL.resources
+C:\Users\hpr1\source\repos\Assembler_MOV_Window\A_Mov_1\A_Mov_1\obj\Debug\A_Mov_1.csproj.GenerateResource.cache
+C:\Users\hpr1\source\repos\Assembler_MOV_Window\A_Mov_1\A_Mov_1\obj\Debug\A_Mov_1.csproj.CoreCompileInputs.cache
+C:\Users\hpr1\source\repos\Assembler_MOV_Window\A_Mov_1\A_Mov_1\obj\Debug\pl-PL\A_Mov_1.resources.dll
+C:\Users\hpr1\source\repos\Assembler_MOV_Window\A_Mov_1\A_Mov_1\obj\Debug\A_Mov_1.exe
+C:\Users\hpr1\source\repos\Assembler_MOV_Window\A_Mov_1\A_Mov_1\obj\Debug\A_Mov_1.pdb
